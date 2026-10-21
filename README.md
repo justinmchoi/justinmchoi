@@ -2,7 +2,7 @@
 
 Software developer in Canada.
 
-I work with Claude Code, one session per task, and I treat it like a new team member I'm training. We work through a problem together once and settle the pattern. Then I write the pattern down as a rule or a skill, so the next session handles that situation on its own and I only read the result and the report.
+I work with Claude Code, one session per task, and I treat it like a new team member I'm training. We work through a problem together once and settle the pattern. Then I write the pattern down as a rule or a skill, so the next session handles that situation on its own and I only read the result and the report. Next, I want it to take on whole tasks from start to finish, which may mean several agents working in parallel.
 
 I also track Chinese and Japanese AI news and test the tools myself. I write about it on [Medium](https://medium.com/@justinmchoi) and [X](https://x.com/justinmchoi_ai).
 
